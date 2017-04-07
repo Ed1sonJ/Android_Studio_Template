@@ -3,15 +3,15 @@
 
 ### 1、如何导入自定义模板
 ![image](https://github.com/Ed1sonJ/Android_Studio_Template/raw/master/img/template_floder.jpg)
-打开上面的目录：```AS安装目录\plugins\android\lib\templates\activities````，将AS自定义模板复制到此目录下，重启AS，就能将模板导入到AS中。如下是我导入的模板。
+打开上面的目录：```AS安装目录\plugins\android\lib\templates\activities```，将AS自定义模板复制到此目录下，重启AS，就能将模板导入到AS中。如下是我导入的模板。
 ![image](https://github.com/Ed1sonJ/Android_Studio_Template/raw/master/img/template.jpg)
 
 ### 2、如何使用自定义模板
 打开AS，在项目的任何一个目录层级下点击右键，移去new，看到下图。
-![image](https://github.com/Ed1sonJ/Android_Studio_Template/raw/master/img/pic3.jpg)
+![image](https://github.com/Ed1sonJ/Android_Studio_Template/raw/master/img/pic3.png)
 
 以BaseListActivity with Adapter为例，如下图。
 ![image](https://github.com/Ed1sonJ/Android_Studio_Template/raw/master/img/pic4.jpg)
 填写好相关的信息，点击finish，则生成模板。
-![image](https://github.com/Ed1sonJ/Android_Studio_Template/raw/master/img/pic5.jpg)
+![image](https://github.com/Ed1sonJ/Android_Studio_Template/raw/master/img/pic5.png)
 模板生成成功！
